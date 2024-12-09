@@ -267,9 +267,9 @@ const ThirdDay: React.FC = () => {
           </AccordionItemHeading>
 
           <AccordionItemPanel>
-          <li>1) Abilympics:- <span>*Competitive event showcasing PwDs vocational skills.*Skills demonstrated include programming web design, cooking, and crafts.*Promotes skill development and provides a platform for showcasing talents*Recognition for winners to encourage vocational pursuits
+          <li>1) Abilympics:- <span>*Competitive event showcasing PwDs vocational skills.*Skills demonstrated include programming web design cooking and crafts*Promotes skill development and provides a platform for showcasing talents*Recognition for winners to encourage vocational pursuits
           </span></li>
-          <li>2) Creative Workshops for Children with Disabilities:- <span>Hands-on activities like painting, crafting music and storytelling*Focus on developing fine motor skills communication and social interaction*Trained facilitators ensure inclusivity and support
+          <li>2) Creative Workshops for Children with Disabilities:- <span>Hands-on activities like painting crafting music and storytelling*Focus on developing fine motor skills communication and social interaction*Trained facilitators ensure inclusivity and support
           </span></li>
           <li>3) Mainstage Event Miracle on Wheels:- <span>*Performances by the Miracle on Wheels dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event*Stories of resilience and determination shared to inspire and celebrate PwDs
           </span></li>

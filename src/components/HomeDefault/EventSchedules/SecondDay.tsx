@@ -59,7 +59,7 @@ const SecondDay: React.FC = () => {
             <li>	10:00 PM - 05:00 PM: Corporate Pavilion - Diversity and Inclusion Initiatives</li>
             <li>	01:00 PM - 05:00 PM: Creative Workshops for Children with Disabilities</li>
             <li>	02:00 PM - 03:30 PM: Panel Discussions </li>
-            <li>	05:00 PM - 06:00 PM: Mainstage Event - Miracle on Wheels</li>
+            <li>	05:00 PM - 06:00 PM: Mainstage Event  Miracle on Wheels</li>
 
             <div className="row h-100 align-items-center">
               <div className="col-lg-6 col-md-7">
@@ -139,9 +139,9 @@ const SecondDay: React.FC = () => {
             </span></li>
             <li>5) Local DPO / NGO Stalls:- <span>*Showcase of initiatives by local DPOs and NGOs.*Networking hub for collaboration on inclusivity.*Information on services, support systems, and resources for PwDs.
             </span></li>
-            <li>6) Jagruti Mela - Information on Schemes for PwDs:- <span>*Information on eligibility, application, and benefits of government schemes.*Brochures and pamphlets for visitors.*One-on-one consultations with government representatives.  
+            <li>6) Jagruti Mela  Information on Schemes for PwDs:- <span>*Information on eligibility, application, and benefits of government schemes.*Brochures and pamphlets for visitors.*One-on-one consultations with government representatives.  
             </span></li>
-            <li>7) Food Court - Stalls by Womens SHGs and PwDs:- <span>*Stalls run by womens SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
+            <li>7) Food Court  Stalls by Womens SHGs and PwDs:- <span>*Stalls run by womens SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
             </span> </li>
             
             <div className="row h-100 align-items-center">
@@ -208,7 +208,7 @@ const SecondDay: React.FC = () => {
             </span></li>
             <li>5) Panel Discussions:- <span>*Expert-led discussions on inclusion in education employment and social integration.*Speakers include educators employers policymakers and PwDs.*Interactive sessions encouraging audience participation.*Creation of an Inclusion Charter by PCMC with actionable steps for community inclusion.
             </span></li>
-            <li>6) Mainstage Event - Miracle on Wheels:- <span>*Performances by the Miracle on Wheels dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
+            <li>6) Mainstage Event  Miracle on Wheels:- <span>*Performances by the Miracle on Wheels dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
             </span></li>
 
             <div className="row h-100 align-items-center">
