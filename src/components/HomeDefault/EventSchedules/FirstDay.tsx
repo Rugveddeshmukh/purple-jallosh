@@ -579,7 +579,7 @@ const FirstDay: React.FC = () => {
       {qrCode && (
         <div style={{ textAlign: "center", marginTop: "20px" }}>
           <h3>Registration Successful! Here is your QR Code:</h3>
-          <img src={qrCode} alt=" QR Code" />
+          <Image src={qrCode} alt=" QR Code" />
         </div>
       )}
     </>
