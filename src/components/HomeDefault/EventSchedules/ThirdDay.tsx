@@ -52,10 +52,10 @@ const ThirdDay: React.FC = () => {
             <li>	10:00 AM - 04:00 PM: Jagruti Mela - Information on Schemes for PwDs</li>
             <li>	10:00 PM - 04:00 PM: Corporate Pavilion - Diversity and Inclusion Initiatives</li>
             <li>	12:00 PM - 04:00 PM: Aids / Assistive Devices Distribution</li>
-            <li>	11:00 PM - 06:00 PM: Food Court - Stalls by Women’s SHGs and PwDs</li>
+            <li>	11:00 PM - 06:00 PM: Food Court - Stalls by Womens SHGs and PwDs</li>
             <li>	12:00 PM - 04:00 PM: Abilympics</li>
             <li>	01:00 PM - 03:30 PM: Creative Workshops for Children with Disabilities</li>
-            <li>	04:00 PM - 05:00 PM: Mainstage Event – MUSIC BAND</li>
+            <li>	04:00 PM - 05:00 PM: Mainstage Event  MUSIC BAND</li>
             <li>	05:00 PM - 06:00 PM: Closing Ceremony</li>
 
 
@@ -192,11 +192,11 @@ const ThirdDay: React.FC = () => {
           <AccordionItemPanel>
           <li>1) Jagruti Mela - Information on Schemes for PwDs:- <span>*Information on eligibility, application, and benefits of government schemes.*Brochures and pamphlets for visitors.*One-on-one consultations with government representatives.  
           </span></li>
-          <li>2) Corporate Pavilion - Diversity and Inclusion Initiatives:- <span>*Case studies and best practices on diversity and inclusion (D&I).*Interactive booths showcasing D&I policies, resource groups, and hiring practices.*Interactive booths showcasing D&I policies, resource groups, and hiring practices. 
+          <li>2) Corporate Pavilion - Diversity and Inclusion Initiatives:- <span>*Case studies and best practices on diversity and inclusion D and I.*Interactive booths showcasing D&I policies, resource groups, and hiring practices.*Interactive booths showcasing D and I policies, resource groups, and hiring practices. 
           </span></li>
           <li>3) Aids / Assistive Devices Distribution:- <span>*Distribution of aids and assistive devices to PwDs.*Needs assessment to ensure proper allocation of devices.*Free distribution with follow-up support and necessary training.
           </span></li>
-          <li>4) Food Court - Stalls by Women’s SHGs and PwDs:- <span>*Stalls run by women’s SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
+          <li>4) Food Court - Stalls by Womens SHGs and PwDs:- <span>*Stalls run by womens SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
           </span> </li>
 
             <div className="row h-100 align-items-center">
@@ -267,11 +267,11 @@ const ThirdDay: React.FC = () => {
           </AccordionItemHeading>
 
           <AccordionItemPanel>
-          <li>1) Abilympics:- <span>*Competitive event showcasing PwDs' vocational skills.*Skills demonstrated include programming, web design, cooking, and crafts.*Promotes skill development and provides a platform for showcasing talents.*Recognition for winners to encourage vocational pursuits.
+          <li>1) Abilympics:- <span>*Competitive event showcasing PwDs vocational skills.*Skills demonstrated include programming, web design, cooking, and crafts.*Promotes skill development and provides a platform for showcasing talents.*Recognition for winners to encourage vocational pursuits.
           </span></li>
           <li>2) Creative Workshops for Children with Disabilities:- <span>Hands-on activities like painting, crafting, music, and storytelling.*Focus on developing fine motor skills, communication, and social interaction.*Trained facilitators ensure inclusivity and support. 
           </span></li>
-          <li>3) Mainstage Event - Miracle on Wheels:- <span>*Performances by the 'Miracle on Wheels' dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
+          <li>3) Mainstage Event - Miracle on Wheels:- <span>*Performances by the Miracle on Wheels dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
           </span></li>
           <li>4) Closing Ceremony:- <span>Acknowledgments:- Thanking participants, sponsors, and volunteers for their contributions.</span></li>
 

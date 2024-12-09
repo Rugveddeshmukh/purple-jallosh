@@ -202,7 +202,7 @@ const SecondDay: React.FC = () => {
             </span></li>
             <li>2) Abilympics:- <span>*Competitive event showcasing PwDs vocational skills.*Skills demonstrated include programming web design cooking and crafts.*Promotes skill development and provides a platform for showcasing talents.*Recognition for winners to encourage vocational pursuits.
             </span></li>
-            <li>3) Corporate Pavilion - Diversity and Inclusion Initiatives:- <span>*Case studies and best practices on diversity and inclusion (D and I).*Interactive booths showcasing D and I policies, resource groups and hiring practices.*Interactive booths showcasing D and I policies resource groups and hiring practices. 
+            <li>3) Corporate Pavilion - Diversity and Inclusion Initiatives:- <span>*Case studies and best practices on diversity and inclusion D and I.*Interactive booths showcasing D and I policies, resource groups and hiring practices.*Interactive booths showcasing D and I policies resource groups and hiring practices. 
             </span></li>
             <li>4) Creative Workshops for Children with Disabilities:- <span>Hands-on activities like painting crafting music and storytelling.*Focus on developing fine motor skills communication, and social interaction.*Trained facilitators ensure inclusivity and support. 
             </span></li>
