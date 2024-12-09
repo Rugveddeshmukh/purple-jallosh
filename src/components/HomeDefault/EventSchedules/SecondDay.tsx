@@ -200,7 +200,7 @@ const SecondDay: React.FC = () => {
           <AccordionItemPanel>
             <li>1) Aids / Assistive Devices Distribution:- <span>*Distribution of aids and assistive devices to PwDs.*Needs assessment to ensure proper allocation of devices.*Free distribution with follow-up support and necessary training.
             </span></li>
-            <li>2) Abilympics:- <span>*Competitive event showcasing PwDs' vocational skills.*Skills demonstrated include programming, web design, cooking, and crafts.*Promotes skill development and provides a platform for showcasing talents.*Recognition for winners to encourage vocational pursuits.
+            <li>2) Abilympics:- <span>*Competitive event showcasing PwDs vocational skills.*Skills demonstrated include programming, web design, cooking, and crafts.*Promotes skill development and provides a platform for showcasing talents.*Recognition for winners to encourage vocational pursuits.
             </span></li>
             <li>3) Corporate Pavilion - Diversity and Inclusion Initiatives:- <span>*Case studies and best practices on diversity and inclusion (D&I).*Interactive booths showcasing D&I policies, resource groups, and hiring practices.*Interactive booths showcasing D&I policies, resource groups, and hiring practices. 
             </span></li>
@@ -208,7 +208,7 @@ const SecondDay: React.FC = () => {
             </span></li>
             <li>5) Panel Discussions:- <span>*Expert-led discussions on inclusion in education, employment, and social integration.*Speakers include educators, employers, policymakers, and PwDs.*Interactive sessions encouraging audience participation.*Creation of an Inclusion Charter by PCMC with actionable steps for community inclusion.
             </span></li>
-            <li>6) Mainstage Event - Miracle on Wheels:- <span>*Performances by the 'Miracle on Wheels' dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
+            <li>6) Mainstage Event - Miracle on Wheels:- <span>*Performances by the Miracle on Wheels dance troupe.*Extraordinary dance skills showcasing abilities of PwDs.*Live music band performance adds excitement to the event.*Stories of resilience and determination shared to inspire and celebrate PwDs.
             </span></li>
 
             <div className="row h-100 align-items-center">
