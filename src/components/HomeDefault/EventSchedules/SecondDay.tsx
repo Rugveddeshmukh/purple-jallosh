@@ -53,7 +53,7 @@ const SecondDay: React.FC = () => {
             <li>	10:00 AM - 05:00 PM: Experience Zones</li>
             <li>	10:00 AM - 05:00 PM: Local DPO / NGO Stalls</li>
             <li>	10:00 AM - 05:00 PM: Jagruti Mela - Information on Schemes for PwDs</li>
-            <li>	11:00 PM - 06:00 PM: Food Court - Stalls by Women’s SHGs and PwDs</li>
+            <li>	11:00 PM - 06:00 PM: Food Court - Stalls by Womens SHGs and PwDs</li>
             <li>	12:00 PM - 04:00 PM: Aids / Assistive Devices Distribution</li>
             <li>	12:00 PM - 04:00 PM: Abilympics</li>
             <li>	10:00 PM - 05:00 PM: Corporate Pavilion - Diversity and Inclusion Initiatives</li>
