@@ -141,7 +141,7 @@ const SecondDay: React.FC = () => {
             </span></li>
             <li>6) Jagruti Mela - Information on Schemes for PwDs:- <span>*Information on eligibility, application, and benefits of government schemes.*Brochures and pamphlets for visitors.*One-on-one consultations with government representatives.  
             </span></li>
-            <li>7) Food Court - Stalls by Women’s SHGs and PwDs:- <span>*Stalls run by women’s SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
+            <li>7) Food Court - Stalls by Womens SHGs and PwDs:- <span>*Stalls run by womens SHGs and PwDs showcasing culinary skills.*Opportunity for economic independence and business experience.*Support for local entrepreneurs through a diverse food offering.
             </span> </li>
             
             <div className="row h-100 align-items-center">
