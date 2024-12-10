@@ -15,12 +15,10 @@ const AboutUsContent: React.FC = () => {
                 Know More About <b>Event </b> PURPLE JALLOSH
                 </h2>
                 <p>
-                The Purple Jallosh event in Pimpri-Chinchwad is a celebration designed to support and highlight the achievements of people with disabilities in the area.
-                 Hosted by the Pimpri-Chinchwad Municipal Corporation (PCMC) at the Divyang Bhavan in Morewadi, this event aligns with PCMCs broader goals of enhancing inclusivity and providing essential services to differently-abled individuals.
+                WHAT: Purple Jallosh is an event designed to celebrate inclusivity, creativity, and transformative joy. It aims to bring together diverse stakeholders to foster innovation, support people with disabilities, and promote a vibrant and supportive community.
                 </p>
                 <p>
-                Divyang Bhavan is a state-of-the-art facility that offers comprehensive support, including therapies (such as physiotherapy and speech therapy), diagnostic services, and the provision of assistive devices like prosthetics. The center also engages in skill training,
-                 employment assistance, and educational guidance, making it a hub for empowerment and community support. 
+                The name Purple Jallosh is vibrant and symbolic, carrying a blend of cultural, emotional, and thematic significance. Heres a deeper exploration of its essence 
                 </p>
 
              {/*  <div className="signature">
@@ -32,7 +30,7 @@ const AboutUsContent: React.FC = () => {
                   />
                 </div> */}
 
-                <Link href="" className="btn btn-primary">
+                <Link href="/about-us" className="btn btn-primary">
                   Read More
                   <i className="icofont-double-right"></i>
                 </Link>
@@ -67,9 +65,9 @@ const AboutUsContent: React.FC = () => {
                   height={111}
                 />
 
-                <Link href="/" className="btn btn-primary">
+               {/* <Link href="/" className="btn btn-primary">
                   Explore More About
-                </Link>
+                </Link>*/}
               </div>
             </div>
           </div>

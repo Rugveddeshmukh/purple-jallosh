@@ -42,7 +42,7 @@ const ContactInfo: React.FC = () => {
 
             <div className="content">
               <h4>Location</h4>
-              <p>PCMC Divynag Bhavan</p>
+              <p>Auto Cluster Exhibition Center, H-Block,Chinchwad East, 181, Old Mumbai - Pune Hwy, MIDC, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019,</p>
             </div>
           </div>
         </div>

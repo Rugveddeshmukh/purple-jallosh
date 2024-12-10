@@ -25,25 +25,25 @@ const ContactForm: React.FC = () => {
                   <h3>Stay Connected</h3>
                   <ul>
                     <li>
-                      <a href="https://www.facebook.com/" target="_blank">
+                      <a href="https://www.facebook.com/profile.php?id=61569597896487" target="_blank">
                         <i className="icofont-facebook"></i>
                         <span>Facebook</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.twitter.com/" target="_blank">
-                        <i className="icofont-twitter"></i>
-                        <span>Twitter</span>
+                      <a href="https://www.youtube.com/@DivyangBhavanPCMC" target="_blank">
+                        <i className="icofont-youtube"></i>
+                        <span>youtube</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/" target="_blank">
+                      <a href="https://www.instagram.com/purple_jallosh_pune/" target="_blank">
                         <i className="icofont-instagram"></i>
                         <span>Instagram</span>
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/" target="_blank">
+                      <a href="https://linkedin.com/company/divyang-bhavan-pcmc" target="_blank">
                         <i className="icofont-linkedin"></i>
                         <span>Linkedin</span>
                       </a>

@@ -13,35 +13,35 @@ interface WhyUs {
 
 const WhyUsData: WhyUs[] = [
   {
-    iconName: "icofont-headphone-alt-1",
-    title: "Great Speakers",
+    iconName: "icofont-users-alt-2",
+    title: "Netwoking and Collabration",
     shortText:
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-    btnText: "Read More",
+      "Connect with corporations, NGOs, and assistive tech innovators to foster partnerships and collaborations, enhancing impactful local initiatives.",
+     btnText: "",
     //btnLink: "#",
   },
   {
-    iconName: "icofont-network-tower",
-    title: "Networking",
+    iconName: "icofont-globe",
+    title: "Influence and Leadership",
     shortText:
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-    btnText: "Read More",
+      "Engage in meaningful discussions on accessibility and inclusion while showcasing your leadership and commitment to these vital areas..",
+    btnText: "",
    // btnLink: "#",
   },
   {
     iconName: "icofont-users-social",
-    title: "New People",
+    title: "Enhanced Community Engagement",
     shortText:
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-    btnText: "Read More",
+      "Join a high-impact event uniting key players in PCMC, including registered PWD organizations, strengthening local ecosystem ties.",
+    btnText: "",
    // btnLink: "#",
   },
   {
-    iconName: "icofont-wink-smile",
-    title: "Have Fun",
+    iconName: "icofont-heart-alt",
+    title: "Demonstration of Commitment",
     shortText:
-      "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-    btnText: "Read More",
+      "Demonstrate your commitment to social responsibility and inclusivity, positioning your organization as a leader in fostering support.",
+    btnText: "",
    // btnLink: "#",
   },
 ];

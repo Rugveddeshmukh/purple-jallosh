@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
                 </span>
 
                 <p className="location">
-                  <i className="icofont-google-map"></i> PCMC Divyang Bhavan
+                  <i className="icofont-google-map"></i>  Auto Cluster Exhibition Center, H-Block,Chinchwad East, 181, Old Mumbai - Pune Hwy, MIDC, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019,
                   
                 </p>
 
@@ -48,7 +48,7 @@ const Footer: React.FC = () => {
                   </li>
                   <li>
                     <a
-                  href="https://www.linkedin.com/company/purple-jallosh/"
+                  href="https://www.youtube.com/@DivyangBhavanPCMC"
                  className="youtube"
                   target="_blank"
                   rel="noopener noreferrer"

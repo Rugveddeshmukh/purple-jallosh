@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
+
 import Image from "next/image";
 
 const AboutUsContent: React.FC = () => {
@@ -12,43 +12,32 @@ const AboutUsContent: React.FC = () => {
           <div className="row h-100 align-items-center">
             <div className="col-lg-6">
               <div className="about-content">
-                <span>Join The Event</span>
+                <span>Purple Fest Awaits</span>
                 <h2>
-                  We Create and <b>Turn</b> Into Reality
+                  EVENT NAME  <b>AND</b> SYMBOLISM
                 </h2>
 
                 <p>
-                  It has survived not only five centuries, but also the leap
-                  into electronic typesetting, remaining essentially unchanged.
+                 The name Purple Jallosh is carefully crafted to encapsulate the events essence and goals. 
+                  PURPLE:- represents our commitment to supporting individuals with disabilities and aligns with global initiatives which raises awareness about various disabilities. 
+                 *Purple serves as a powerful symbol of advocacy and support for people with disabilities. It reflects a commitment to inclusivity and respect, creating a strong visual identity for the event’s focus on these issues.
+                 *The color purple also signifies creativity and forward-thinking. It represents our dedication to fostering innovative solutions and celebrating diverse talents and perspectives.
                 </p>
 
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book.
+                 JALLOSH:-The term Jallosh embodies a state of intense happiness and transformative joy. It signifies our aim to create an environment where participants experience a profound sense of inspiration and accomplishment.
+                  *By incorporating Jallosh we emphasize the transformative nature of the event, where attendees not only celebrate achievements but also engage in a journey of collective growth.
+                  *Jallosh highlights our aspiration to generate enthusiasm and drive positive change. It reflects the events goal of uplifting and energizing participants, leaving them with a renewed sense of motivation and purpose.
+
                 </p>
-
-                <div className="signature">
-                  <Image
-                    src="/images/signature.png"
-                    alt="signature"
-                    width={142}
-                    height={68}
-                  />
-                </div>
-
-                <Link href="#" className="btn btn-secondary">
-                  Buy Ticket
-                </Link>
+                
               </div>
             </div>
 
             <div className="col-lg-6">
               <div className="about-image">
                 <Image
-                  src="/images/about1.jpg"
+                  src="/images/image7.jpg"
                   className="about-img1"
                   alt="about"
                   width={750}
@@ -56,7 +45,7 @@ const AboutUsContent: React.FC = () => {
                 />
 
                 <Image
-                  src="/images/about2.jpg"
+                  src="/images/image4.jpg"
                   className="about-img2"
                   alt="about"
                   width={309}

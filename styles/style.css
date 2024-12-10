@@ -414,18 +414,21 @@ Navbar CSS
 .elkevent-nav nav .navbar-nav .nav-item {
   position: relative;
   padding: 15px 0;
+  
 }
 .elkevent-nav nav .navbar-nav .nav-item a {
   font-weight: 500;
   font-size: 16px;
   text-transform: uppercase;
-  color: black;
+  color: Black;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
   padding-bottom: 0;
   margin-left: 15px;
   margin-right: 15px;
+  font-weight: bold;
+  
 }
 .elkevent-nav nav .navbar-nav .nav-item a:hover, .elkevent-nav nav .navbar-nav .nav-item a:focus, .elkevent-nav nav .navbar-nav .nav-item a.active {
   color: #FF2D55;
